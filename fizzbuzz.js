@@ -1,2 +1,1 @@
-module.exports =
-function fz(n){return !n%15?'fizzbuzz':!n%3?'fizz':!n%5?'buzz':n}
+module.exports=function f(n){return n%15?n%5?n%3?n:'fizz':'buzz':'fizzbuzz'}
