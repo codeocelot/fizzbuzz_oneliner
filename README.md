@@ -13,7 +13,7 @@ A 6 pack of beer (your choice) to be delivered by the end of Monday.
 
 The output of `wc -m` found inside test.js is considered official. 
 
-Currently standing at 61 characters, set this Saturday morning.
+Currently standing at 69 characters, set this Saturday morning.
 
 How much lower can you go? 
 
