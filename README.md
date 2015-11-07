@@ -16,3 +16,5 @@ The output of `wc -m` found inside test.js is considered official.
 Currently standing at 61 characters, set this Saturday morning.
 
 How much lower can you go? 
+
+As usual, submit your PRs, including in your comment the output from test.js 
