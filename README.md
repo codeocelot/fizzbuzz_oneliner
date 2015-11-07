@@ -1,5 +1,5 @@
 # fizzbuzz_oneliner
-Because my students were using 20 precious lines to write fizzbuzz.  
+Because students were using 20 precious lines to write fizzbuzz.  
 
 ## The Rules: 
 Any es6 and lower syntax.  Must run on nodejs v4.2.1 with `--harmony` flag set. 
