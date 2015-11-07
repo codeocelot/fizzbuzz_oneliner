@@ -1,5 +1,6 @@
 var fizzbuzz = require('./fizzbuzz.js');
 var assert = require('assert');
+var childProcess = require('child_process')
 
 assert.equal(fizzbuzz(1),1);
 assert.equal(fizzbuzz(2),2);
@@ -22,3 +23,7 @@ assert.equal(fizzbuzz(30),'fizzbuzz')
 assert.equal(fizzbuzz(35),'buzz')
 assert.equal(fizzbuzz(36),'fizz')
 console.log('tests finished')
+
+var charCount = childProcess.execSync('wc -m fizzbuzz.js').toString().split(/ /)[0]
+
+console.log(`used ${charCount} chars`);
