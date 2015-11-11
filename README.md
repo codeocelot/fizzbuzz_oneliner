@@ -3,6 +3,7 @@ Because students were using 20 precious lines to write fizzbuzz.
 
 ## The Current Record: 
 55 chars. Including `module.exports`.
+
 ## The Rules: 
 Any es6 and lower syntax.  Must run on nodejs v4.2.1 with `--harmony` flag set. 
 Your code must be exportable using CommonJS syntax.  In otherwords, it must be equivalent to `module.exports=`
