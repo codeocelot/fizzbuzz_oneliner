@@ -14,7 +14,7 @@ Your code must be exportable using CommonJS syntax.  In otherwords, it must be e
 
 The output of `wc -m` found inside test.js is considered official. 
 
-Currently standing at 69 characters, set this Saturday morning.
+Currently standing at 55 characters, set Nov 11.
 
 How much lower can you go? 
 
