@@ -1,1 +1,1 @@
-module.exports=n=>(n%3?'':'fizz')+(n%5?'':'buzz')||n
+module.exports=ᅟ=>(ᅟ%3?'':'fizz')+(ᅟ%5?'':'buzz')||ᅟ
